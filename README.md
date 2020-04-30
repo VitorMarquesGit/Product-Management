@@ -24,5 +24,4 @@ The following are detailed instructions for installing the code so you can code 
 
    The application should then compile and launch in your default browser.
    
-If these steps don't work for you, see STACKBLITZ below.
 
